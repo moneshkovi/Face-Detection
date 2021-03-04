@@ -12,5 +12,5 @@ it would compare you face from # Particular-Face -> test.jpg to other faces in #
 # Detect face
 
 run face.py
-Please upload the picture under test.jpg
+Please upload the picture under test1.jpg
 it will highlight all the faces from the picture
